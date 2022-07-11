@@ -1,0 +1,2 @@
+# Additional sudoers files 
+username ALL=(ALL:ALL) NOPASSWD:ALL

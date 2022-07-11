@@ -1,0 +1,7 @@
+redis-sentinel-HA-ansible-role
+tick-stack-ansible-role
+wazuh-setup-ansible-role
+awx-tower-ansible-role
+memcache-ansible-role
+ansible-role-template 
+elk-stack-ansible-role
